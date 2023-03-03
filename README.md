@@ -1,6 +1,6 @@
 ### Hi there, I'm [Forest-art](https://github.com/Forest-art)
 
-- 🔭 I’m currently a Master Student of School of Artificial Intelligence, Optics and Electronics ([iOPEN](https://iopen.nwpu.edu.cn/)) in [NWPU](http://www.nwpu.edu.cn/).
+- 🔭 I’m currently a Research Assistant (RA) in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU), supervised by Prof. Song Guo in PEILab. And I would continue to persue my PH.D here.
 
 <p align="center">
 <a href="https://github.com/Forest-art">
