@@ -1,4 +1,4 @@
-### Hi there, I'm [Forest-art](https://github.com/Forest-art)
+### 👋Hello, I'm [Xiaocheng Lu](https://github.com/Forest-art) ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=Forest-art.homepage)
 
 - 🔭 I’m currently a Research Assistant (RA) in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU), supervised by Prof. Song Guo in PEILab. And I would continue to persue my PH.D here.
 
