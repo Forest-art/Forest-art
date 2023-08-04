@@ -1,6 +1,6 @@
 ### 👋Hello, I'm [Xiaocheng Lu](https://github.com/Forest-art) ✨. ![](https://komarev.com/ghpvc/?username=Forest-art&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently a Research Assistant (RA) in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU), supervised by Prof. Song Guo in PEILab. And I would continue to persue my PH.D here.
+- 🔭 I’m currently a PhD student in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU), supervised by Prof. Song Guo in PEILab. And I would continue to persue my PH.D here.
 
 <p align="center">
 <a href="https://github.com/Forest-art">
